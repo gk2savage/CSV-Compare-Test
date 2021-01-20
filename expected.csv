@@ -1,0 +1,8 @@
+var,data
+id,101
+name,gk
+department,Security
+address,"D-601, White Apartments, Highway Road"
+pincode,123456
+joining,10/1/2010
+creds,"{""access-level"":""A1"",""server-access"":""yes"",""ftp-user"":""gk5012"",""ssh-user"":""a1user"",""ssh-pass"":""s3cur3""}"
