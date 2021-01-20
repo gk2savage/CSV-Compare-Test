@@ -12,6 +12,6 @@ Features:
 - pytest framework to assert testcases and generate reports (i.e. HTML)
 
 Requirements:
-Python 2.7
-pip
-pytest-framework
+- Python 2.7
+- pip
+- pytest-framework
